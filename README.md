@@ -1,5 +1,5 @@
 ### WELCOME
-# FORK AT YOUR OWN RISK
+# FORK
 # Installing
 Join https://t.me/HardcoreUserbot to know more !
 ### The Easy Way
